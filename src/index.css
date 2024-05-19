@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  font-family: "Kode Mono", monospace;
+}
+
+:root {
+  --pink: #AD636C;
+  --white: #FFFFFF;
+  --green: #009B72;
+  --purple: #6761A8;
+  --blue: #347E8D;
+  --gray: #798186;
+}
